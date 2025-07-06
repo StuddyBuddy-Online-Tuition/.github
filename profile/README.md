@@ -9,9 +9,9 @@ This organization contains repositories powering our **student-teacher dashboard
 ## 💡 What is StudyBuddy?
 
 **StudyBuddy** Study Buddy is your go-to online tutoring platform. 
--Connect with expert tutors who care about your academic success. 
--Learn at your own pace, anytime, anywhere. 
--Find your perfect study buddy today!
+- Connect with expert tutors who care about your academic success. 
+- Learn at your own pace, anytime, anywhere. 
+- Find your perfect study buddy today!
 
 We’re committed to making education easier to manage for tutors and more engaging for learners.
 
