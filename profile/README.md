@@ -46,5 +46,5 @@ This project is developed and maintained by [Wan Aqim](https://github.com/PyConq
 ---
 
 > All rights reserved © StudyBuddy Synergy Sdn Bhd.  
-> Development funded and commissioned by StudyBuddy for internal and commercial use.
+> Development funded and commissioned by StudyBuddy for internal use.
 
