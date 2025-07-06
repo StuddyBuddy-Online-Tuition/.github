@@ -19,7 +19,7 @@ We’re committed to making education easier to manage for tutors and more engag
 
 ## 🚀 Technology Stack
 
-This project is developed and maintained by [Wan Ahmad Mustaqim](https://github.com/PyConqueror), commissioned by StudyBuddy. Key technologies include:
+This project is developed and maintained by [Wan Aqim](https://github.com/PyConqueror), commissioned by StudyBuddy. Key technologies include:
 
 - **Frontend:** Next.js (React)  
 - **Backend:** Django (REST API)  
@@ -40,8 +40,7 @@ This project is developed and maintained by [Wan Ahmad Mustaqim](https://github.
 
 ## 🛠️ Maintained By
 
-[Wan Ahmad Mustaqim](https://github.com/PyConqueror)  
-Lead Developer & Tech Consultant  
+[Wan Aqim](https://github.com/PyConqueror)  
 📫 For collaborations or issues, please reach out via GitHub or email.
 
 ---
